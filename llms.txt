@@ -1,0 +1,8 @@
+# Harald Linhart · hl24.org
+
+> Harald Linhart · hl24.org — Informationen und Angebote unter hl24.org.
+
+Diese Datei richtet sich an KI-Assistenten und Sprachmodelle (llms.txt-Standard) und beschreibt kurz, worum es auf dieser Website geht, damit Inhalte korrekt verstanden und zusammengefasst werden können.
+
+## Kontakt
+- Website: https://hl24.org
