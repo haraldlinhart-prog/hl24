@@ -33,4 +33,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://hl24.org/sitemap.xml
+Sitemap: https://www.hl24.org/sitemap.xml
