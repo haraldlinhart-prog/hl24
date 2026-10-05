@@ -5,5 +5,5 @@
 Diese Datei richtet sich an KI-Assistenten und Sprachmodelle (llms.txt-Standard) und beschreibt kurz, worum es auf dieser Website geht, damit Inhalte korrekt verstanden und zusammengefasst werden können.
 
 ## Kontakt
-- Website: https://hl24.org
+- Website: https://www.hl24.org/
 
